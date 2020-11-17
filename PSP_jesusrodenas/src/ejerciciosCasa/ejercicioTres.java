@@ -1,4 +1,4 @@
-package ejercicios;
+package ejerciciosCasa;
 
 import java.io.BufferedWriter;
 import java.io.File;

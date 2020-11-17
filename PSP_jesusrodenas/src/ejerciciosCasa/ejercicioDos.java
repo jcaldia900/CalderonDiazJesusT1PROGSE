@@ -1,4 +1,4 @@
-package ejercicios;
+package ejerciciosCasa;
 
 import java.io.File;
 import java.io.IOException;
