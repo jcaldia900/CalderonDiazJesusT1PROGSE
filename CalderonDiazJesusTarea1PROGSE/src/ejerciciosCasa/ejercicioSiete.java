@@ -2,7 +2,7 @@ package ejerciciosCasa;
 
 import java.io.IOException;
 
-public class ejercicioUno {
+public class ejercicioSiete {
 	
 public static void main(String[] args) {
 	
